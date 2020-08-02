@@ -1,3 +1,3 @@
 code.exe: first.c
-	gcc first.c -o code.exe 
+	gcc "file_name".c -o code.exe 
 	./code.exe
